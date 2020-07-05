@@ -1,0 +1,8 @@
+name: mangasee_scraper
+description: Mangasee Manga Scraper
+version: 0.0.1
+author: Jon Barrow
+
+dependencies:
+  http: ^0.12.1
+  webfeed: ^0.4.2
